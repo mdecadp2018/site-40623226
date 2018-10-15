@@ -27,30 +27,23 @@
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20181015105121.1" a="E"><vh>Week 1</vh>
+<v t="leo.20181015105121.2"><vh>Week1</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
+<v t="leo.20181015105219.1" a="E"><vh>Week 2</vh>
+<v t="leo.20181015105219.2"><vh>Week 2</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181015105239.1" a="E"><vh>Week 3</vh>
+<v t="leo.20181015105239.2"><vh>Week 3</vh></v>
 </v>
+<v t="leo.20181015105238.1" a="E"><vh>Week 4</vh>
+<v t="leo.20181015105238.2"><vh>Week 4</vh></v>
 </v>
-<v t="leo.20180914112652.1"><vh>快捷鍵</vh>
-<v t="leo.20180914112652.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181015105254.1" a="E"><vh>Week 5</vh>
+<v t="leo.20181015105254.2"><vh>Week 5</vh></v>
 </v>
-<v t="leo.20180921095607.1" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180921095607.2"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180921095607.3"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20180921095607.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180921095607.5"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20180921095607.6" a="E"><vh>導入影片</vh>
-<v t="leo.20180921095607.7"><vh>iframe 導入影片</vh></v>
-</v>
+<v t="leo.20181015105252.1" a="E"><vh>Week 6</vh>
+<v t="leo.20181015105252.2"><vh>Week 6</vh></v>
 </v>
 </v>
 </v>
@@ -143,7 +136,7 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623226](https://mdecadp2018.github.io/site-40623226/content/index.html)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
@@ -168,83 +161,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
-</t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180827201621.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -340,7 +256,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180914112652.1">&lt;section data-markdown&gt;
+<t tx="leo.20181015105121.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -349,79 +265,55 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180914112652.2"># 投影片快捷鍵
+<t tx="leo.20181015105121.2">Week1
+----
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+首先進入mde.tw
+
+https://mdecadp2018.github.io/site-40623226/images/40623226-1.png
+
+點選 i
+接著進入Week 1
+
+https://mdecadp2018.github.io/site-40623226/images/40623226-2.png
+
+進入https://github.com/mdecourse/2018fall
+並git clone到近端
+
+接著登入帳號並建立個人倉儲
+
+https://mdecadp2018.github.io/site-40623226/images/40623226-3.png
+
+git clone到近端並把2018fall的資料丟進去
+接著git add .  
+           git commit -m "intitial add"
+           git config 自己信箱和username
+           git push上去到遠端
+
+推上去後執行近端
+把http-server.py 拉到SciTE並執行 
+
+https://mdecadp2018.github.io/site-40623226/images/40623226-4.png
+
+這時近端啟動 會跑出https://localhost:8444
+此時為靜態網站
+
+https://mdecadp2018.github.io/site-40623226/images/40623226-5.png
+
+要從近端改版，所以要把靜態改為動態進行改版後推上去
+此時會出現動態網址   進入後可開始進行更改
+
+https://mdecadp2018.github.io/site-40623226/images/40623226-7.png
+
+需先登入 輸入密碼 admin
+進入後點選 Config 更改名稱
+
+https://mdecadp2018.github.io/site-40623226/images/40623226-6.png
+
+完成後點選 generate_pages轉為靜態並利用git push推上遠端
 
 </t>
-<t tx="leo.20180921095607.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180921095607.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180921095607.3"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180921095607.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180921095607.5">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180921095607.6">&lt;section data-markdown&gt;
+<t tx="leo.20181015105219.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -430,11 +322,85 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180921095607.7">## 使用 iframe 導入影片
+<t tx="leo.20181015105219.2">Week 2
+----
 
-### 導入影片 template
+進入 https://classroom.github.com/a/fGqXU9kO 領取個人倉儲作業
+領取完畢進入github官網 https://github.com 並登入
+在首頁可以找到倉儲並進入
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+https://mdecadp2018.github.io/site-40623226/images/40623226-9.png
+
+進入倉儲從Setting裡更改 Branchs為 gh-pages
+
+https://mdecadp2018.github.io/site-40623226/images/40623226-10.png
+
+接著git clone 到近端，接著進行改檔
+網站先轉換為動態，輸入python wsgi.py
+
+https://mdecadp2018.github.io/site-40623226/images/40623226-7.png
+
+進入動態網頁開始進行更改
+測試網頁功能是否正確運作
+
+https://mdecadp2018.github.io/site-40623226/images/40623226-11.png
+
+完成後點選generate_pages轉為靜態
+並git push推回遠端
+
+</t>
+<t tx="leo.20181015105238.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015105238.2">Week4
+----
+
+</t>
+<t tx="leo.20181015105239.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015105239.2">中秋節放假
+----
+
+利用中秋節練習Onshape
+</t>
+<t tx="leo.20181015105252.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015105252.2">Week 6
+----
+
+</t>
+<t tx="leo.20181015105254.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015105254.2">Week5
+----
+
 </t>
 </tnodes>
 </leo_file>
