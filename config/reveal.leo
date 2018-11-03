@@ -42,8 +42,14 @@
 <v t="leo.20181015105254.1" a="E"><vh>Week 5</vh>
 <v t="leo.20181015105254.2"><vh>Week 5</vh></v>
 </v>
-<v t="leo.20181015105252.1" a="E"><vh>Week 6</vh>
+<v t="leo.20181015105252.1"><vh>Week 6</vh>
 <v t="leo.20181015105252.2"><vh>Week 6</vh></v>
+</v>
+<v t="leo.20181104000841.1" a="E"><vh>Week 7</vh>
+<v t="leo.20181104000841.2"><vh>Week 7</vh></v>
+</v>
+<v t="leo.20181104000844.1" a="E"><vh>Week 8</vh>
+<v t="leo.20181104000844.2"><vh>Week 8</vh></v>
 </v>
 </v>
 </v>
@@ -410,6 +416,37 @@ Onshape功能畫起來很完善，但我覺得因為我英文能力不夠好，�
 
 第五週進入到Onshape第二週，這一週開始必須要了解到自己的設計意圖是什麼，還有設定尺寸以及如何去約束他，並且要正確和精準。
 &lt;iframe src="https://www.youtube.com/watch?v=JeJiWLpkuEQ" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181104000841.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104000841.2">Week 7
+----
+github出問題
+
+原因:  網路故障且儲存的倉儲位置也連帶故障,導致多數人進行遠端傳送,有些許的障礙出現,但近端仍有更動.
+
+解決:  避免相同的衝突再次發生,所以有了因應的措施,必須先想出可應對的方法，
+例如: 可以使用gitlab , bitbucket , fossil scm 這些額外可作為github遠端以外的連結
+</t>
+<t tx="leo.20181104000844.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104000844.2">Week 8
+----
+了解之後分組如何一起共用Onshape
 </t>
 </tnodes>
 </leo_file>
