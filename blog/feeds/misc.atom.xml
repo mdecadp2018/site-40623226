@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623226/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623226/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623226/blog/</id><updated>2018-10-15T00:00:00+08:00</updated><entry><title>Week 6</title><link href="https://mdecadp2018.github.io/site-40623226/blog/2018-Fall-Project-Blog6.html" rel="alternate"></link><published>2018-10-15T00:00:00+08:00</published><updated>2018-10-15T00:00:00+08:00</updated><author><name>40623226</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623226/blog/2018-Fall-Project-Blog6.html</id><summary type="html">&lt;p&gt;第六週內容
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623226/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623226/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623226/blog/</id><updated>2018-10-29T00:00:00+08:00</updated><entry><title>Week 8</title><link href="https://mdecadp2018.github.io/site-40623226/blog/2018-Fall-Project-Blog8.html" rel="alternate"></link><published>2018-10-29T00:00:00+08:00</published><updated>2018-10-29T00:00:00+08:00</updated><author><name>40623226</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623226/blog/2018-Fall-Project-Blog8.html</id><summary type="html">&lt;p&gt;第八週內容
+</summary><content type="html">&lt;p&gt;第八週內容
+&lt;/p&gt;
+&lt;p&gt;了解之後分組如何一起共用Onshape&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623226/blog/2018-Fall-Project-Blog7.html" rel="alternate"></link><published>2018-10-22T00:00:00+08:00</published><updated>2018-10-22T00:00:00+08:00</updated><author><name>40623226</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623226/blog/2018-Fall-Project-Blog7.html</id><summary type="html">&lt;p&gt;第七週內容
+</summary><content type="html">&lt;p&gt;第七週內容
+&lt;/p&gt;
+&lt;p&gt;github出問題&lt;/p&gt;
+&lt;p&gt;原因:&lt;br&gt;
+網路故障且儲存的倉儲位置也連帶故障,導致多數人進行遠端傳送,有些許的障礙出現,但近端仍有更動.&lt;/p&gt;
+&lt;p&gt;解決:&lt;br&gt;
+避免相同的衝突再次發生,所以有了因應的措施,必須先想出可應對的方法&lt;/p&gt;
+&lt;p&gt;例如: 可以使用gitlab , bitbucket , fossil scm 這些額外可作為github遠端以外的連結.&lt;/p&gt;
+&lt;p&gt;連結如下:&lt;/p&gt;
+&lt;p&gt;https://about.gitlab.com/pricing/&lt;/p&gt;
+&lt;p&gt;https://bitbucket.org/product/pricing&lt;/p&gt;
+&lt;p&gt;心得: 雖然github網站出錯，但不一定只有一個網站有倉儲可以用，可以把資料放到github以外倉儲。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="https://mdecadp2018.github.io/site-40623226/blog/2018-Fall-Project-Blog6.html" rel="alternate"></link><published>2018-10-15T00:00:00+08:00</published><updated>2018-10-15T00:00:00+08:00</updated><author><name>40623226</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623226/blog/2018-Fall-Project-Blog6.html</id><summary type="html">&lt;p&gt;第六週內容
 </summary><content type="html">&lt;p&gt;第六週內容
-&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40623226/blog/2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-10-08T00:00:00+08:00</published><updated>2018-10-08T00:00:00+08:00</updated><author><name>40623226</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623226/blog/2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;第五週內容&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://mde.tw/cadp2018/content/OnshapeWeek%205.html"&gt;練習Onshape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;心得:
+Onshape功能畫起來很完善，但我覺得因為我英文能力不夠好，導致某些功能沒辦法用的很正確，最後還是得先查一下什麼意思看得懂才畫的比較順暢。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40623226/blog/2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-10-08T00:00:00+08:00</published><updated>2018-10-08T00:00:00+08:00</updated><author><name>40623226</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623226/blog/2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;第五週內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第五週內容&lt;/p&gt;
-</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40623226/blog/2018-Fall-Project-Blog4.html" rel="alternate"></link><published>2018-10-01T00:00:00+08:00</published><updated>2018-10-01T00:00:00+08:00</updated><author><name>40623226</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623226/blog/2018-Fall-Project-Blog4.html</id><summary type="html">&lt;p&gt;第四週內容&lt;/p&gt;
+
+
+&lt;p&gt;&lt;em&gt;設計意圖指在設計進行前, 必須完成之專案目的與需求確認
+&lt;/em&gt;幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認&lt;/p&gt;
+&lt;p&gt;學習要點:&lt;/p&gt;
+&lt;p&gt;1.簡介"設計意圖" (design intent)&lt;/p&gt;
+&lt;p&gt;2.設定尺寸 (dimensions) 與約束 (constraints)&lt;/p&gt;
+&lt;p&gt;3.自動推理 (automatic inferencing)&lt;/p&gt;
+&lt;p&gt;4.繪製精確的零件 (accurate part)&lt;/p&gt;
+&lt;p&gt;5.草圖繪製練習&lt;/p&gt;
+&lt;p&gt;6.運用與建立平面 (planes)&lt;/p&gt;
+&lt;p&gt;7.建立圓角 (fillets) 與倒角 (chamfers)&lt;/p&gt;
+&lt;p&gt;8.使用多個 (multiple) 草圖區域 (sketch regions)&lt;/p&gt;
+&lt;p&gt;9.基本零件&lt;/p&gt;
+&lt;p&gt;10.繪製時鐘模型 - 用於設計意圖教學&lt;/p&gt;
+&lt;p&gt;11.各種簡單的幾何形狀 (geometric shapes)&lt;/p&gt;
+&lt;p&gt;心得:
+第五週進入到Onshape第二週，這一週開始必須要了解到自己的設計意圖是什麼，還有設定尺寸以及如何去約束他，並且要正確和精準。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40623226/blog/2018-Fall-Project-Blog4.html" rel="alternate"></link><published>2018-10-01T00:00:00+08:00</published><updated>2018-10-01T00:00:00+08:00</updated><author><name>40623226</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623226/blog/2018-Fall-Project-Blog4.html</id><summary type="html">&lt;p&gt;第四週內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第四週內容&lt;/p&gt;
 
 
 &lt;p&gt;Week4&lt;/p&gt;
-&lt;p&gt;學習並了解OnShape如何操作
-註冊OnShape帳號實際操作練習&lt;/p&gt;
-&lt;p&gt;https://mdecadp2018.github.io/site-40623226/images/40623226-8.png&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 3</title><link href="https://mdecadp2018.github.io/site-40623226/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-09-24T00:00:00+08:00</published><updated>2018-09-24T00:00:00+08:00</updated><author><name>40623226</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623226/blog/2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;第三週內容&lt;/p&gt;
+&lt;p&gt;學習並了解OnShape如何操作&lt;/p&gt;
+&lt;p&gt;Step1:建立 Onshape 帳號 - 請利用學校 gmail 建立教育版帳號&lt;/p&gt;
+&lt;p&gt;Step2:3D 環境導航 (navigate)&lt;/p&gt;
+&lt;p&gt;Step3:說明基於草圖 (sketch-based)的建模&lt;/p&gt;
+&lt;p&gt;Step4:介紹 4 個基本特徵 (features)（擠出(extrude)，旋轉(revolve)，掃描(sweep)，和斷面混成(loaf)）&lt;/p&gt;
+&lt;p&gt;Step5:從 2D 過渡到 3D&lt;/p&gt;
+&lt;p&gt;Step6:介紹基本草圖&lt;/p&gt;
+&lt;p&gt;Step7:附錄A：鍵盤快捷鍵 (keyboard shotcuts)，滑鼠和觸控平面手勢 (touchpad gestures)，檢視工具&lt;/p&gt;
+&lt;p&gt;Step8:附錄B：導航說明檔，建立帳號，訂閱計劃 (subscription plans)&lt;/p&gt;
+&lt;p&gt;Step9:圓柱薄殼 (cylinder shell) - 繪圖界面與可視化/檢視的介紹&lt;/p&gt;
+&lt;p&gt;Step10:針對既有草圖的模型 - 接續建立特徵&lt;/p&gt;
+&lt;p&gt;Step11:現存公用模型 (public models) - 如何搜尋並復製到工作區 (workspace)&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mdecadp2018.github.io/site-40623226/images/40623226-8.png"&gt;註冊OnShape帳號實際操作練習&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 3</title><link href="https://mdecadp2018.github.io/site-40623226/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-09-24T00:00:00+08:00</published><updated>2018-09-24T00:00:00+08:00</updated><author><name>40623226</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623226/blog/2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;第三週內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第三週內容&lt;/p&gt;
 
 
@@ -19,47 +64,41 @@
 </summary><content type="html">&lt;p&gt;第二週內容&lt;/p&gt;
 
 
-&lt;p&gt;進入 https://classroom.github.com/a/fGqXU9kO 領取個人倉儲作業
-領取完畢進入github官網 https://github.com 並登入
-在首頁可以找到倉儲並進入&lt;/p&gt;
-&lt;p&gt;https://mdecadp2018.github.io/site-40623226/images/40623226-9.png&lt;/p&gt;
-&lt;p&gt;進入倉儲從Setting裡更改 Branchs為 gh-pages&lt;/p&gt;
-&lt;p&gt;https://mdecadp2018.github.io/site-40623226/images/40623226-10.png&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href="https://classroom.github.com/a/fGqXU9kO"&gt;領取個人倉儲作業&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;領取完畢
+&lt;a href="https://github.com"&gt;進入github官網&lt;/a&gt; 
+並登入&lt;/p&gt;
+&lt;p&gt;在首頁可以&lt;a href="https://mdecadp2018.github.io/site-40623226/images/40623226-9.png"&gt;找到倉儲並進入&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;進入倉儲從Setting裡&lt;a href="https://mdecadp2018.github.io/site-40623226/images/40623226-10.png"&gt;更改 Branchs為 gh-pages&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;接著git clone 到近端，接著進行改檔
-網站先轉換為動態，輸入python wsgi.py&lt;/p&gt;
-&lt;p&gt;https://mdecadp2018.github.io/site-40623226/images/40623226-7.png&lt;/p&gt;
-&lt;p&gt;進入動態網頁開始進行更改
+&lt;a href="https://mdecadp2018.github.io/site-40623226/images/40623226-7.png"&gt;網站先轉換為動態&lt;/a&gt;
+輸入python wsgi.py&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mdecadp2018.github.io/site-40623226/images/40623226-11.png"&gt;進入動態網頁&lt;/a&gt;
+開始進行更改
 測試網頁功能是否正確運作&lt;/p&gt;
-&lt;p&gt;https://mdecadp2018.github.io/site-40623226/images/40623226-11.png&lt;/p&gt;
 &lt;p&gt;完成後點選generate_pages轉為靜態
 並git push推回遠端&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="https://mdecadp2018.github.io/site-40623226/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T00:00:00+08:00</published><updated>2018-09-10T00:00:00+08:00</updated><author><name>40623226</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623226/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;第一週內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第一週內容&lt;/p&gt;
 
 
-&lt;p&gt;首先進入mde.tw&lt;/p&gt;
-&lt;p&gt;https://mdecadp2018.github.io/site-40623226/images/40623226-1.png&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href="https://mdecadp2018.github.io/site-40623226/images/40623226-1.png"&gt;首先進入mde.tw&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;點選 i
-接著進入Week 1&lt;/p&gt;
-&lt;p&gt;https://mdecadp2018.github.io/site-40623226/images/40623226-2.png&lt;/p&gt;
-&lt;p&gt;進入https://github.com/mdecourse/2018fall
-並git clone到近端&lt;/p&gt;
-&lt;p&gt;接著登入帳號並建立個人倉儲&lt;/p&gt;
-&lt;p&gt;https://mdecadp2018.github.io/site-40623226/images/40623226-3.png&lt;/p&gt;
+&lt;a href="https://mdecadp2018.github.io/site-40623226/images/40623226-2.png"&gt;接著進入Week 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecourse/2018fall"&gt;git clone到近端&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mdecadp2018.github.io/site-40623226/images/40623226-3.png"&gt;接著登入帳號並建立個人倉儲&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;git clone到近端並把2018fall的資料丟進去
 接著git add .&lt;br&gt;
            git commit -m "intitial add"
            git config 自己信箱和username
            git push上去到遠端&lt;/p&gt;
 &lt;p&gt;推上去後執行近端
-把http-server.py 拉到SciTE並執行 &lt;/p&gt;
-&lt;p&gt;https://mdecadp2018.github.io/site-40623226/images/40623226-4.png&lt;/p&gt;
-&lt;p&gt;這時近端啟動 會跑出https://localhost:8444
-此時為靜態網站&lt;/p&gt;
-&lt;p&gt;https://mdecadp2018.github.io/site-40623226/images/40623226-5.png&lt;/p&gt;
+&lt;a href="https://mdecadp2018.github.io/site-40623226/images/40623226-4.png"&gt;把http-server.py 拉到SciTE並執行&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://localhost:8444"&gt;這時近端啟動 會跑出&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mdecadp2018.github.io/site-40623226/images/40623226-5.png"&gt;此時為靜態網站&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;要從近端改版，所以要把靜態改為動態進行改版後推上去
-此時會出現動態網址   進入後可開始進行更改&lt;/p&gt;
-&lt;p&gt;https://mdecadp2018.github.io/site-40623226/images/40623226-7.png&lt;/p&gt;
+此時會出現動態網址  &lt;a href="https://mdecadp2018.github.io/site-40623226/images/40623226-7.png"&gt;進入後可開始進行更改&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;需先登入 輸入密碼 admin
-進入後點選 Config 更改名稱&lt;/p&gt;
-&lt;p&gt;https://mdecadp2018.github.io/site-40623226/images/40623226-6.png&lt;/p&gt;
+進入後&lt;a href="https://mdecadp2018.github.io/site-40623226/images/40623226-6.png"&gt;點選 Config 更改名稱&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;完成後點選 generate_pages轉為靜態並利用git push推上遠端&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
