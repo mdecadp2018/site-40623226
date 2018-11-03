@@ -265,19 +265,20 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226/content/index.
 
 						
 </t>
-<t tx="leo.20181015105121.2">Week1
-----
+<t tx="leo.20181015105121.2">## Week1
+以下利用 Markdown 格式展示 
+```
+@language python
 
 首先進入mde.tw
-
-&lt;img src="https://mdecadp2018.github.io/site-40623226/images/40623226-1.png" height="300" width="480"&gt; 
+https://mdecadp2018.github.io/site-40623226/images/40623226-1.png
 
 點選 i
 接著進入Week 1
 
 https://mdecadp2018.github.io/site-40623226/images/40623226-2.png
 
-進入https://github.com/mdecourse/2018fall
+進入 https://github.com/mdecourse/2018fall
 並git clone到近端
 
 接著登入帳號並建立個人倉儲
@@ -311,7 +312,7 @@ https://mdecadp2018.github.io/site-40623226/images/40623226-7.png
 https://mdecadp2018.github.io/site-40623226/images/40623226-6.png
 
 完成後點選 generate_pages轉為靜態並利用git push推上遠端
-
+```
 </t>
 <t tx="leo.20181015105219.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -322,8 +323,10 @@ https://mdecadp2018.github.io/site-40623226/images/40623226-6.png
 
 						
 </t>
-<t tx="leo.20181015105219.2">Week 2
-----
+<t tx="leo.20181015105219.2">## Week2
+以下利用 Markdown 格式展示 
+```
+@language python
 
 進入 https://classroom.github.com/a/fGqXU9kO 領取個人倉儲作業
 領取完畢進入github官網 https://github.com 並登入
@@ -347,7 +350,7 @@ https://mdecadp2018.github.io/site-40623226/images/40623226-11.png
 
 完成後點選generate_pages轉為靜態
 並git push推回遠端
-
+```
 </t>
 <t tx="leo.20181015105238.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -361,7 +364,9 @@ https://mdecadp2018.github.io/site-40623226/images/40623226-11.png
 <t tx="leo.20181015105238.2">Week4
 ----
 
-</t>
+熟悉操作Onshape
+
+&lt;iframe src="https://vimeo.com/298751366" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181015105239.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -375,7 +380,9 @@ https://mdecadp2018.github.io/site-40623226/images/40623226-11.png
 ----
 
 利用中秋節練習Onshape
-</t>
+
+
+&lt;img src="https://localhost:8444/images/40623226-8.png" height="221" width="400"&gt;</t>
 <t tx="leo.20181015105252.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -387,7 +394,7 @@ https://mdecadp2018.github.io/site-40623226/images/40623226-11.png
 </t>
 <t tx="leo.20181015105252.2">Week 6
 ----
-
+Onshape功能畫起來很完善，但我覺得因為我英文能力不夠好，導致某些功能沒辦法用的很正確，最後還是得先查一下什麼意思看得懂才畫的比較順暢。
 </t>
 <t tx="leo.20181015105254.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -401,6 +408,8 @@ https://mdecadp2018.github.io/site-40623226/images/40623226-11.png
 <t tx="leo.20181015105254.2">Week5
 ----
 
+第五週進入到Onshape第二週，這一週開始必須要了解到自己的設計意圖是什麼，還有設定尺寸以及如何去約束他，並且要正確和精準。
+&lt;iframe src="https://www.youtube.com/watch?v=JeJiWLpkuEQ" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
