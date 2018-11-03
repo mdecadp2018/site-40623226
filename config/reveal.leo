@@ -270,7 +270,7 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226/content/index.
 
 首先進入mde.tw
 
-https://mdecadp2018.github.io/site-40623226/images/40623226-1.png
+&lt;img src="https://mdecadp2018.github.io/site-40623226/images/40623226-1.png" height="300" width="480"&gt; 
 
 點選 i
 接著進入Week 1
