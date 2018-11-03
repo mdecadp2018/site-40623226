@@ -2326,18 +2326,6 @@ g.es("admin pelican 近端執行完畢")
 <t tx="yen.20170108171733.5"></t>
 <t tx="yen.20170108171733.71"></t>
 <t tx="yen.20170108171733.81"></t>
-<t tx="yen.20170108171733.82">@language md
-Title: About
-
-##2018 Fall 分組網誌
-
-課程倉儲: &lt;a href="https://github.com/mdecadp2018/site-40623226"&gt;https://github.com/mdecadp2018/site-40623226&lt;/a&gt;
-
-課程投影片: &lt;a href="https://mdecadp2018.github.io/site-40623226/reveal/"&gt;https://mdecadp2018.github.io/site-40623226/reveal/&lt;/a&gt;
-
-課程網誌: &lt;a href="https://mdecadp2018.github.io/site-40623226/blog
-"&gt;https://mdecadp2018.github.io/site-40623226/blog
-&lt;/a&gt;</t>
 <t tx="yen.20170108171733.83">sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout localhost.key -out localhost.crt
 
 </t>
