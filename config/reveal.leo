@@ -41,15 +41,17 @@
 </v>
 <v t="leo.20181104000841.1"><vh>W16</vh>
 <v t="leo.20181104000841.2"><vh>W16</vh></v>
-<v t="leo.20190614084037.1"><vh>第一頁</vh>
-<v t="leo.20190614084037.2"><vh>W10</vh></v>
-</v>
 </v>
 <v t="leo.20190614081943.1"><vh>心得</vh>
 <v t="leo.20190614081943.2"><vh>心得</vh></v>
 </v>
 <v t="leo.20181104000844.1"><vh>自評成績</vh>
-<v t="leo.20181104000844.2"><vh>成績</vh></v>
+<v t="leo.20190614084037.1"><vh>第一頁</vh>
+<v t="leo.20190614084037.2"><vh>W10</vh></v>
+</v>
+<v t="leo.20190614091209.1"><vh>第二頁</vh>
+<v t="leo.20190614091209.2"><vh>期末報告影片</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -370,15 +372,6 @@ github出問題
 
 						
 </t>
-<t tx="leo.20181104000844.2"># Week10
-
-* 學員出席 (20%) : 20
-* Github 倉儲管理  (20%) : 15
-* Onshape 協同操作 (20%) : 0
-* V-rep 模擬 (20%) : 15
-* 程式開發 (20%) : 15
-* 自評分數 : 65
-</t>
 <t tx="leo.20190614081943.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -407,11 +400,28 @@ github出問題
 
 						
 </t>
-<t tx="leo.20190614084037.2"># Week10
+<t tx="leo.20190614084037.2"># 自評成績
 
-* 建立[VirtualBox 虛擬主機](https://mdecadp2018.github.io/site-40623226/content/W10.html)
-* 修改vdi的uuid以及編輯netplan
-* [影片1](https://youtu.be/oIpR6aeNIiU)
-* [影片2](https://youtu.be/yBEAiMRDzAU)</t>
+* 學員出席 (20%) : 20
+* Github 倉儲管理  (20%) : 15
+* Onshape 協同操作 (20%) : 0
+* V-rep 模擬 (20%) : 15
+* 程式開發 (20%) : 15
+* 自評分數 : 65
+</t>
+<t tx="leo.20190614091209.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614091209.2"># 期末報告影片
+
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/aYgmS1R16Xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 </tnodes>
 </leo_file>

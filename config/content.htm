@@ -76,14 +76,32 @@
 <p><img src="/images/w12-40623226-6.PNG" width="500" height="70" alt=""></p><h2>W13</h2>
 <p>討論專案執行規劃</p>
 <p>並討論vrep模擬</p><h2>W14</h2>
-<p>上網查閱資料並總結執行計畫、動機、結論</p><h2>W15</h2><p>調整Vrep程式內容</p><p><img src="/images/w15-40623226-1.PNG" width="500" height="400" alt=""></p><p><img src="/images/w15-40623226-2.PNG" width="500" height="400" alt=""></p><p>position_BR=sim.getObjectPosition(BRod_handle,-1)&nbsp;<br>桿子位置 = 模擬得到物件位置(處理的物件 , -1啟動)<br>position_S=sim.getObjectPosition(Sphere_handle,-1)<br><span>球的位置 = 模擬得到物件位置(處理的物件 , -1啟動)<br></span><br>X = position_S[1] - position_PR[1]<br><span>X = 球的位置 - 桿件的位置 (在X軸上)</span><br>Y = position_S[2] - position_PR[2]<span>&nbsp;<br>Y = 球的位置 - 桿件的位置再(在Y軸上)<br></span><br>if 1 then<br>&nbsp; &nbsp; if X &lt;= -0.05 then --goalkeeper<br><span>&nbsp;(假設X &lt;= -0.05時 = true)</span><br>&nbsp; &nbsp; &nbsp; &nbsp; sim.setJointTargetVelocity(right_joint_r1,-5)<br>&nbsp; &nbsp; elseif X &gt; -0.05 then<br><span>(額外假設X&gt; -0.05時 = true )</span><br>&nbsp; &nbsp; &nbsp; &nbsp; sim.setJointTargetVelocity(right_joint_r1,5)<br>&nbsp; &nbsp; end<br>&nbsp; &nbsp; Y = Y*5<br><span>&nbsp; &nbsp; Y = 上方Y 在Y軸位置差* 5倍</span><br>&nbsp; &nbsp; sim.setJointTargetVelocity(right_slider_r1,Y)<br><span>&nbsp; &nbsp;模擬設定軸的目標速度(處理後的物間 , 上方 Y 追蹤的速度大小)</span></p><p><img src="/images/w15-40623226-3.PNG" width="500" height="400" alt=""></p><p><img src="/images/w15-40623226-4.PNG" width="500" height="400" alt=""></p><p></p><p><img src="/images/w15-40623226-5.PNG" width="500" height="400" alt=""></p><p></p><p><img src="/images/w15-40623226-6.PNG" width="500" height="200" alt=""></p><p><span>&nbsp; &nbsp; Y = 上方Y在Y軸的位置差*5倍</span></p><p><span>&nbsp; &nbsp; &nbsp; &nbsp; 模擬設定的目標速度(處理後的物件 , Y的追蹤速度大小)</span></p><p><span>&nbsp; &nbsp; elseif (額外假設求在Y軸上 &gt; 0.1) then (接著)</span></p><p>&nbsp; &nbsp; &nbsp; &nbsp;[ if (假設X &lt;= -0.02時 = true) then (接著)</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 模擬設定軸的目標速度(處理後的物件 , 速度大小(負號為方向))</p><p>&nbsp; &nbsp; &nbsp; &nbsp; elseif (額外假設X&gt; -0.02時 = true ) then (接著)</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 模擬設定軸的目標速度(處理後的物件 , 速度大小)</p><p>&nbsp; &nbsp; &nbsp; &nbsp; YYYYY = 上方Y2 在Y軸位置差* 5倍</p><p>&nbsp; &nbsp; &nbsp; &nbsp; 模擬設定軸的目標速度(處理後的物間 , 上方 Y2 追蹤的速度大小)</p><h2>W16</h2>
+<p>上網查閱資料並總結執行計畫、動機、結論</p><h2>W15</h2>
+<p>調整Vrep程式內容</p>
+<p><img src="/images/w15-40623226-1.PNG" width="500" height="400" alt=""></p>
+<p><img src="/images/w15-40623226-2.PNG" width="500" height="400" alt=""></p>
+<p>position_BR=sim.getObjectPosition(BRod_handle,-1)&nbsp;<br>桿子位置 = 模擬得到物件位置(處理的物件 , -1啟動)<br>position_S=sim.getObjectPosition(Sphere_handle,-1)<br><span>球的位置 = 模擬得到物件位置(處理的物件 , -1啟動)<br></span><br>X = position_S[1] - position_PR[1]<br><span>X = 球的位置 - 桿件的位置 (在X軸上)</span><br>Y = position_S[2] - position_PR[2]<span>&nbsp;<br>Y = 球的位置 - 桿件的位置再(在Y軸上)<br></span><br>if 1 then<br>&nbsp; &nbsp; if X &lt;= -0.05 then --goalkeeper<br><span>&nbsp;(假設X &lt;= -0.05時 = true)</span><br>&nbsp; &nbsp; &nbsp; &nbsp; sim.setJointTargetVelocity(right_joint_r1,-5)<br>&nbsp; &nbsp; elseif X &gt; -0.05 then<br><span>(額外假設X&gt; -0.05時 = true )</span><br>&nbsp; &nbsp; &nbsp; &nbsp; sim.setJointTargetVelocity(right_joint_r1,5)<br>&nbsp; &nbsp; end<br>&nbsp; &nbsp; Y = Y*5<br><span>&nbsp; &nbsp; Y = 上方Y 在Y軸位置差* 5倍</span><br>&nbsp; &nbsp; sim.setJointTargetVelocity(right_slider_r1,Y)<br><span>&nbsp; &nbsp;模擬設定軸的目標速度(處理後的物間 , 上方 Y 追蹤的速度大小)</span></p>
+<p><img src="/images/w15-40623226-3.PNG" width="500" height="400" alt=""></p>
+<p><img src="/images/w15-40623226-4.PNG" width="500" height="400" alt=""></p>
+<p></p>
+<p><img src="/images/w15-40623226-5.PNG" width="500" height="400" alt=""></p>
+<p></p>
+<p><img src="/images/w15-40623226-6.PNG" width="500" height="200" alt=""></p>
+<p><span>&nbsp; &nbsp; Y = 上方Y在Y軸的位置差*5倍</span></p>
+<p><span>&nbsp; &nbsp; &nbsp; &nbsp; 模擬設定的目標速度(處理後的物件 , Y的追蹤速度大小)</span></p>
+<p><span>&nbsp; &nbsp; elseif (額外假設求在Y軸上 &gt; 0.1) then (接著)</span></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;[ if (假設X &lt;= -0.02時 = true) then (接著)</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 模擬設定軸的目標速度(處理後的物件 , 速度大小(負號為方向))</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; elseif (額外假設X&gt; -0.02時 = true ) then (接著)</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 模擬設定軸的目標速度(處理後的物件 , 速度大小)</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; YYYYY = 上方Y2 在Y軸位置差* 5倍</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; 模擬設定軸的目標速度(處理後的物間 , 上方 Y2 追蹤的速度大小)</p><h2>W16</h2>
 <p><a href="https://drive.google.com/file/d/1_Hk3IbIg1_vGYoDoedjd3eVrQ4iWQK_m/view">人機對人機</a></p>
 <p><iframe width="500" height="280" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/J5nIZNrk1mI" data-mce-fragment="1"></iframe></p>
 <p><a href="https://drive.google.com/file/d/1eaj6ecl3lIpankWGjdBZQgur_Uf5SOrK/view">人對人機</a></p>
 <p><iframe width="500" height="314" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3dqeYTxdUQw" data-mce-fragment="1"></iframe></p>
 <p><a href="https://drive.google.com/file/d/10O3gXgdBlt4v4Mzeh6rxT1oc7lA7H9fS/view">人對人</a></p>
-<p><iframe width="500" height="341" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ltAH5UlB6ds" data-mce-fragment="1"></iframe></p><h2>W17</h2>
-<h1>手足球系統</h1>
+<p><iframe width="500" height="341" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ltAH5UlB6ds" data-mce-fragment="1"></iframe></p><h2>W17</h2><p>期末報告</p><p><iframe width="500" height="300" src="//www.youtube.com/embed/aYgmS1R16Xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p><h1>手足球系統</h1>
 <p><a href="https://drive.google.com/file/d/1Uy3w4vkDU2PcOFU54JC0du_9sBudBzIU/view?usp=sharing">送球機構</a></p>
 <p><iframe width="500" height="314" src="//www.youtube.com/embed/rjQ5rFQhfuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
 <p><a href="https://drive.google.com/file/d/1_Hk3IbIg1_vGYoDoedjd3eVrQ4iWQK_m/view">人機對人機</a></p>
