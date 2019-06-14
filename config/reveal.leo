@@ -355,6 +355,7 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 <t tx="leo.20181015105254.2">## Week14
 
 * 上網查閱資料並總結執行計畫、動機、結論
+* 解決Vrep模擬遇到的[問題](https://youtu.be/-8sov2M7iiQ)
 </t>
 <t tx="leo.20181104000841.1">&lt;section&gt;
 @others
@@ -364,7 +365,6 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 						
 </t>
 <t tx="leo.20181104000841.2">## Week16
-
 * 完成人機模擬對打
 </t>
 <t tx="leo.20181104000844.1">&lt;section data-markdown&gt;
@@ -384,6 +384,8 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 						
 </t>
 <t tx="leo.20190614081943.2">## 心得
+
+這學期學會了VirtualBox後，了解到可以透過虛擬的主機直接連到網路伺服端，利用多個作業系統執行工作，而第十二週則學會利用pull request，每個人都可以建立新的request，由擁有權限的組長審核後Merge提交，這樣在很多人的情況下似乎衝突不會很頻繁，之後的幾週都是專注在專案上，雖然我們這組並沒有常常討論互動，但還是透過github更新改版檢視每人的進度最後完成人機對打操作。
 
 </t>
 <t tx="leo.20190614083646.1">## Week10
