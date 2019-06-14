@@ -153,7 +153,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall scrum2 網際簡報
+<t tx="leo.20180827201621.10">## 協同產品實習設計
 
 ### 虎科大機械設計工程系
 
@@ -296,9 +296,11 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 
 						
 </t>
-<t tx="leo.20181015105219.2"># Week11
+<t tx="leo.20181015105219.2">## Week11
 
-* 這週進行[組員工作分配](https://mdecadp2018.github.io/site-40623226/content/W11.html)</t>
+* 這週進行[組員工作分配](https://mdecadp2018.github.io/site-40623226/content/W11.html)
+
+</t>
 <t tx="leo.20181015105238.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -308,7 +310,7 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 
 						
 </t>
-<t tx="leo.20181015105238.2"># Week13
+<t tx="leo.20181015105238.2">## Week13
 
 * 討論專案執行規劃
 * 並討論vrep模擬細項
@@ -323,9 +325,11 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 
 						
 </t>
-<t tx="leo.20181015105239.2"># Week12
+<t tx="leo.20181015105239.2">## Week12
 
-* 進行[Pull request](https://mdecadp2018.github.io/site-40623226/content/W12.html)</t>
+* 進行[Pull request](https://mdecadp2018.github.io/site-40623226/content/W12.html)
+
+</t>
 <t tx="leo.20181015105252.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -335,7 +339,7 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 
 						
 </t>
-<t tx="leo.20181015105252.2"># Week15
+<t tx="leo.20181015105252.2">## Week15
 
 * 調整Vrep[程式內容](https://mdecadp2018.github.io/site-40623226/content/W15.html)
 </t>
@@ -348,20 +352,18 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 
 						
 </t>
-<t tx="leo.20181015105254.2"># Week14
+<t tx="leo.20181015105254.2">## Week14
 
 * 上網查閱資料並總結執行計畫、動機、結論
 </t>
-<t tx="leo.20181104000841.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181104000841.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20181104000841.2"># Week16
+<t tx="leo.20181104000841.2">## Week16
 
 * 完成人機模擬對打
 </t>
@@ -374,25 +376,25 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 
 						
 </t>
-<t tx="leo.20190614081943.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20190614081943.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20190614081943.2"># 心得
+<t tx="leo.20190614081943.2">## 心得
 
 </t>
-<t tx="leo.20190614083646.1"># Week10
+<t tx="leo.20190614083646.1">## Week10
 
 * 建立[VirtualBox 虛擬主機](https://mdecadp2018.github.io/site-40623226/content/W10.html)
 * 修改vdi的uuid以及編輯netplan
 * [影片1](https://youtu.be/oIpR6aeNIiU)
-* [影片2](https://youtu.be/yBEAiMRDzAU)</t>
-<t tx="leo.20190614084037.2"># 自評成績
+* [影片2](https://youtu.be/yBEAiMRDzAU)
+
+</t>
+<t tx="leo.20190614084037.2">## 自評成績
 
 * 學員出席 (20%) : 20
 * Github 倉儲管理  (20%) : 15
@@ -412,7 +414,7 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 
 						
 </t>
-<t tx="leo.20190614091209.2"># 期末報告影片
+<t tx="leo.20190614091209.2">## 期末報告影片
 
 &lt;iframe width="560" height="314" src="https://www.youtube.com/embed/aYgmS1R16Xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
@@ -436,7 +438,7 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 
 						
 </t>
-<t tx="leo.20190614100714.2"># 人對電腦
+<t tx="leo.20190614100714.2">## 人對電腦
 
 &lt;iframe width="500" height="314" src="https://www.youtube.com/embed/3dqeYTxdUQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -452,7 +454,7 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 
 						
 </t>
-<t tx="leo.20190614100716.2"># 電腦對電腦
+<t tx="leo.20190614100716.2">## 電腦對電腦
 
 &lt;iframe width="500" height="280" src="https://www.youtube.com/embed/J5nIZNrk1mI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -478,7 +480,7 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 
 						
 </t>
-<t tx="leo.20190614100744.2"># 人對人
+<t tx="leo.20190614100744.2">## 人對人
 
 &lt;iframe width="500" height="341" src="https://www.youtube.com/embed/ltAH5UlB6ds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
