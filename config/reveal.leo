@@ -40,18 +40,29 @@
 <v t="leo.20181015105252.2"><vh>W15</vh></v>
 </v>
 <v t="leo.20181104000841.1"><vh>W16</vh>
+<v t="leo.20190614100718.1"><vh>第一頁</vh>
 <v t="leo.20181104000841.2"><vh>W16</vh></v>
 </v>
-<v t="leo.20190614081943.1"><vh>心得</vh>
-<v t="leo.20190614081943.2"><vh>心得</vh></v>
+<v t="leo.20190614100716.1"><vh>第二頁</vh>
+<v t="leo.20190614100716.2"><vh>影片1</vh></v>
 </v>
-<v t="leo.20181104000844.1"><vh>自評成績</vh>
-<v t="leo.20190614084037.1"><vh>第一頁</vh>
-<v t="leo.20190614084037.2"><vh>W10</vh></v>
+<v t="leo.20190614100714.1"><vh>第三頁</vh>
+<v t="leo.20190614100714.2"><vh>影片2</vh></v>
+</v>
+<v t="leo.20190614100744.1"><vh>第四頁</vh>
+<v t="leo.20190614100744.2"><vh>影片3</vh></v>
+</v>
+</v>
+<v t="leo.20190614081943.1"><vh>心得</vh>
+<v t="leo.20190614100609.1"><vh>第一頁</vh>
+<v t="leo.20190614081943.2"><vh>心得</vh></v>
 </v>
 <v t="leo.20190614091209.1"><vh>第二頁</vh>
 <v t="leo.20190614091209.2"><vh>期末報告影片</vh></v>
 </v>
+</v>
+<v t="leo.20181104000844.1"><vh>自評成績</vh>
+<v t="leo.20190614084037.2"><vh>自評</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -297,12 +308,10 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 
 						
 </t>
-<t tx="leo.20181015105238.2">Week4
-----
+<t tx="leo.20181015105238.2"># Week13
 
-熟悉操作Onshape
-
-&lt;iframe src="https://vimeo.com/298751366" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+* 討論專案執行規劃
+* 並討論vrep模擬細項
 
 </t>
 <t tx="leo.20181015105239.1">&lt;section data-markdown&gt;
@@ -316,7 +325,7 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 </t>
 <t tx="leo.20181015105239.2"># Week12
 
-* </t>
+* 進行[Pull request](https://mdecadp2018.github.io/site-40623226/content/W12.html)</t>
 <t tx="leo.20181015105252.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -326,9 +335,9 @@ Created by [40623226](https://mdecadp2018.github.io/site-40623226)
 
 						
 </t>
-<t tx="leo.20181015105252.2">Week 6
-----
-Onshape功能畫起來很完善，但我覺得因為我英文能力不夠好，導致某些功能沒辦法用的很正確，最後還是得先查一下什麼意思看得懂才畫的比較順暢。
+<t tx="leo.20181015105252.2"># Week15
+
+* 調整Vrep[程式內容](https://mdecadp2018.github.io/site-40623226/content/W15.html)
 </t>
 <t tx="leo.20181015105254.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -339,11 +348,9 @@ Onshape功能畫起來很完善，但我覺得因為我英文能力不夠好，�
 
 						
 </t>
-<t tx="leo.20181015105254.2">Week5
-----
+<t tx="leo.20181015105254.2"># Week14
 
-第五週進入到Onshape第二週，這一週開始必須要了解到自己的設計意圖是什麼，還有設定尺寸以及如何去約束他，並且要正確和精準。
-&lt;iframe src="https://www.youtube.com/watch?v=JeJiWLpkuEQ" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+* 上網查閱資料並總結執行計畫、動機、結論
 </t>
 <t tx="leo.20181104000841.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -354,14 +361,9 @@ Onshape功能畫起來很完善，但我覺得因為我英文能力不夠好，�
 
 						
 </t>
-<t tx="leo.20181104000841.2">Week 7
-----
-github出問題
+<t tx="leo.20181104000841.2"># Week16
 
-原因:  網路故障且儲存的倉儲位置也連帶故障,導致多數人進行遠端傳送,有些許的障礙出現,但近端仍有更動.
-
-解決:  避免相同的衝突再次發生,所以有了因應的措施,必須先想出可應對的方法，
-例如: 可以使用gitlab , bitbucket , fossil scm 這些額外可作為github遠端以外的連結
+* 完成人機模擬對打
 </t>
 <t tx="leo.20181104000844.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -390,16 +392,6 @@ github出問題
 * 修改vdi的uuid以及編輯netplan
 * [影片1](https://youtu.be/oIpR6aeNIiU)
 * [影片2](https://youtu.be/yBEAiMRDzAU)</t>
-<t tx="leo.20190614084037.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="leo.20190614084037.2"># 自評成績
 
 * 學員出席 (20%) : 20
@@ -413,6 +405,7 @@ github出問題
     &lt;script type="text/template"&gt;
 @others
 
+
     &lt;/script&gt;
 &lt;/section&gt;
 
@@ -422,6 +415,73 @@ github出問題
 <t tx="leo.20190614091209.2"># 期末報告影片
 
 &lt;iframe width="560" height="314" src="https://www.youtube.com/embed/aYgmS1R16Xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190614100609.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614100714.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614100714.2"># 人對電腦
+
+&lt;iframe width="500" height="314" src="https://www.youtube.com/embed/3dqeYTxdUQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20190614100716.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614100716.2"># 電腦對電腦
+
+&lt;iframe width="500" height="280" src="https://www.youtube.com/embed/J5nIZNrk1mI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20190614100718.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614100744.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190614100744.2"># 人對人
+
+&lt;iframe width="500" height="341" src="https://www.youtube.com/embed/ltAH5UlB6ds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 </tnodes>
 </leo_file>
